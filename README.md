@@ -1,6 +1,6 @@
 # select html automatico
 
-Inserção no select html via javascript
+Inserção de dados no select html via javascript
 
 ## Screenshot
 
